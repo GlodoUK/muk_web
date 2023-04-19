@@ -23,14 +23,13 @@
 {
     "name": "MuK Preview Image",
     "summary": """Image Preview""",
-    "version": "12.0.3.0.2",
+    "version": "16.0.0.0.1",
     "category": "Extra Tools",
     "license": "LGPL-3",
-    "website": "http://www.mukit.at",
-    "live_test_url": "https://demo.mukit.at/web/login",
-    "author": "MuK IT",
+    "website": "glo.systems",
+    "author": "Glo Networks",
     "contributors": [
-        "Mathias Markl <mathias.markl@mukit.at>",
+        "Blommaerts Edwin <edwin@glo.systems>",
     ],
     "depends": [
         "muk_web_preview",
